@@ -11,7 +11,7 @@ ReactDOM.render(
     <ul>
       <li>milk</li>
       <li>eggs</li>
-      <li>rajma</li>
+      <li>rajmaa</li>
     </ul>
   </div>,
   document.getElementById("root")
